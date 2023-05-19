@@ -5,7 +5,6 @@
 <a href="https://dev.to/sogoid"><img src="https://img.icons8.com/windows/40/d2691e/dev.png" target="_blank" title="dev.to"></a> 
 <a href="https://stackoverflow.com/users/21739577/sogoid"> <img src="https://img.icons8.com/windows/40/d2691e/stackoverflow.png" alt="stackoverflow" title="StackOverFlow"/></a>
 <a href="https://www.linkedin.com/in/diogos-ribeiro/"><img src="https://img.icons8.com/windows/40/d2691e/linkedin.png" target="_blank" title="LinkdIn"></a>
-<a href="mailto:diogos_ribeiro@outlook.com"><img src="https://img.icons8.com/windows/40/d2691e/gmail--v1.png" target_blank title="E-mail"></a>
 <a href="https://t.me/Diogos_ribeiro"><img src="https://img.icons8.com/windows/40/d2691e/telegram-app.png" target_blank title="Telegram"></a>
 <a href="https://www.reddit.com/user/DIOGOSRIBEIRO"> <img src="https://img.icons8.com/metro/40/d2691e/reddit--v1.png" alt="reddit--v1" target_blank title="Reddit">
 <h6>The icons above are clickable</h6> 
@@ -30,6 +29,7 @@
 ---  
   
 ### <img src="https://img.icons8.com/ios-filled/30/d2691e/machine-learning.png" alt="machine-learning"/> Technology in learning.
+  
   <div>
   <img src="https://img.icons8.com/color/52/html-5--v1.png" alt="html" title="HTML"/>
   <img src="https://img.icons8.com/color/52/css3.png" alt="css3" title="CSS"/>
@@ -39,8 +39,15 @@
   <img src="https://img.icons8.com/color/52/git.png" alt="git" title="GIT"/>
   <img src="https://img.icons8.com/dusk/52/github.png" alt="github" title="GitHub"/>
   <img src="https://img.icons8.com/color/52/docker.png" alt="docker" title="Docker"/>
+  <img alt="icon-Vscode" height="48" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="Vscode" />
+  <img alt="icon-figma" height="48" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma"/>
+   <img alt="icon-jetbrains" height="48" width="52" src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" title="Jetbrains"/>
   </div>
   
-### <img src="https://img.icons8.com/ios-filled/30/d2691e/e-learning.png" alt="e-learning"/> Learning Framework.
   
-  <img src="https://img.icons8.com/nolan/60/flask.png" alt="flask" title="Flask"/>
+### <img src="https://img.icons8.com/ios-filled/30/d2691e/e-learning.png" alt="e-learning"/> Learning Framework.
+  <div>
+  <img src="https://img.icons8.com/nolan/60/flask.png" alt="flask" title="Flask"/>&nbsp;
+  <img alt="icon-bootstrap" height="48" width="52" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap"/>
+  </div>
+  
