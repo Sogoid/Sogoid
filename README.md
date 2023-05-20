@@ -17,6 +17,7 @@
 - 💞️ <span title="Estou querendo colaborar:">I’m looking to collaborate on:</span>
 
 ---
+<br>
   
 ### ⚡ <span title="Estatísticas do GitHub">GitHub Stats</span>
 <div>
@@ -30,7 +31,19 @@
 </div>
   
 ---
-   
+<br> 
+  
+## <img src="https://img.icons8.com/ios-glyphs/25/d2691e/language.png" alt="language"/><span title="Idioma Inglês"> English language</span>
+
+|<span title="Habilidade">Skill</span>|<span title="Nível Basico">Basic level</span>|<span title="Nível Intermediário">Intermediate level</span>|<span title="Nível Avançado">Advanced level</span>|
+| --- | --- | --- | --- |
+|<span title="Escrita">Writing</span>|<img src="https://img.icons8.com/metro/20/d2691e/checked-checkbox.png" alt="checked-checkbox"/>|<img src="https://img.icons8.com/metro/20/d2691e/unchecked-checkbox.png" alt="unchecked-checkbox"/>|<img src="https://img.icons8.com/metro/20/d2691e/unchecked-checkbox.png" alt="unchecked-checkbox"/>|
+|<span title="Leitura">Reading|<img src="https://img.icons8.com/metro/20/d2691e/checked-checkbox.png" alt="checked-checkbox"/>|<img src="https://img.icons8.com/metro/20/d2691e/unchecked-checkbox.png" alt="unchecked-checkbox"/>|<img src="https://img.icons8.com/metro/20/d2691e/unchecked-checkbox.png" alt="unchecked-checkbox"/>|
+|<span title="Conversação">Conversation|<img src="https://img.icons8.com/metro/20/d2691e/checked-checkbox.png" alt="checked-checkbox"/>|<img src="https://img.icons8.com/metro/20/d2691e/unchecked-checkbox.png" alt="unchecked-checkbox"/>|<img src="https://img.icons8.com/metro/20/d2691e/unchecked-checkbox.png" alt="unchecked-checkbox"/>|
+  
+---
+<br>
+  
 ## <img src="https://img.icons8.com/metro/25/d2691e/circuit.png" alt="circuit"/><span title="Tecnologia"> Technology</span>
   
 | <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/52/external-front-end-computer-programming-flaticons-flat-flat-icons.png" alt="external-front-end-computer-programming-flaticons-flat-flat-icons"/><br><span title="Aprendendo Front-End.">Learning Front End.</span>| <img src="https://img.icons8.com/arcade/52/api-settings.png" alt="api-settings"/><br><span title="Aprendendo Back-End.">Learning Back End.</span> | <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/52/external-coding-language-mobile-app-development-flaticons-lineal-color-flat-icons-4.png" alt="external-coding-language-mobile-app-development-flaticons-lineal-color-flat-icons-4"/><br><span title="Aprendendo Frameworks.">Learning Framework.</span> | <img src="https://img.icons8.com/external-flat-circle-design-circle/52/external-IDE-Editor-seo-and-web-flat-circle-design-circle.png" alt="external-IDE-Editor-seo-and-web-flat-circle-design-circle"/><br><span title="Ferramentas de desenvolvimento">Developer Tools</span> |
