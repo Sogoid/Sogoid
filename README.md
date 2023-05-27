@@ -1,6 +1,8 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=d2691e&height=120&section=header"/>
+
 <div align="center" title="Olá! Bem vindo ao meu Perfil!">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=42&pause=2000&color=d2691e&center=verdadeiro&vCenter=falso&width=800&height=80&lines=Hello!+Welcome+to+my+profile!" alt="Typing SVG" /></a>
-<a href="https://git.io/typing-svg" title="Olá, sou DIOGO DA S RIBEIRO ( Sogoid )"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=42&pause=2000&color=d2691e&center=verdadeiro&vCenter=falso&width=1000&height=80&lines=Hi,+I’m+DIOGO+DA+S+RIBEIRO+(+Sogoid+)" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=42&pause=2000&color=d2691e&center=true&vCenter=true&width=1000&height=80&lines=Hello!+Welcome+to+my+profile!+:%29;Hi,+I’m+DIOGO+DA+S+RIBEIRO+(+Sogoid+)" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg" title="Olá, sou DIOGO DA S RIBEIRO ( Sogoid )"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=42&pause=2000&color=d2691e&center=true&vCenter=true&width=1000&height=80&lines=Olá!+Bem+vindo+ao+meu+Perfil!+:%29;Olá,+sou+DIOGO+DA+S+RIBEIRO+(+Sogoid+)" alt="Typing SVG" /></a>
 
 <a href="https://dev.to/sogoid"><img src="https://img.icons8.com/windows/40/d2691e/dev.png" target="_blank" title="dev.to"></a> 
 <a href="https://stackoverflow.com/users/21739577/sogoid"> <img src="https://img.icons8.com/windows/40/d2691e/stackoverflow.png" alt="stackoverflow" title="StackOverFlow"/></a>
@@ -67,3 +69,14 @@
   <img src="https://img.icons8.com/metro/20/d2691e/checked-checkbox.png" alt="checked-checkbox"/>
   <span style="font-weight: bold;" title="Tarefa concluída com sucesso">Task completed successfully.</span>
 </div>
+<div align="center">
+  <br>
+  <p align="center" style="color: #D2691E;">
+    <b>Contagem de visitantes</b>
+  </p>
+  <p align="center">
+    <img align="center" src="https://profile-counter.glitch.me/{sogoid}/count.svg" />
+  </p>
+  <br>
+</div>
+
