@@ -69,6 +69,9 @@
   <img src="https://img.icons8.com/metro/20/d2691e/checked-checkbox.png" alt="checked-checkbox"/>
   <span style="font-weight: bold;" title="Tarefa concluída com sucesso">Task completed successfully.</span>
 </div>
+  
+  ---
+  
 <div align="center">
   <br>
   <p align="center" style="color: #D2691E;">
