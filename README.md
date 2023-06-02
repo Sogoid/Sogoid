@@ -22,13 +22,29 @@
 <br>
   
 ### ⚡ <span title="Estatísticas do GitHub">GitHub Stats</span>
-<div>
+  
+  <picture>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=sogoid&show_icons=true&icon_color=d2691e&bg_color=101414&hide_borde=true&title_color=d2691e&theme=dark&locale=pt-br"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=sogoid&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=sogoid&show_icons=true" />
+</picture>
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sogoid&bg_color=101414&hide_borde=true&title_color=d2691e&theme=dark&locale=pt-br)](https://github.com/sogoid/github-readme-stats)
+
+  <div>
   <a href="https://github.com/sogoid">
   <center>
+    
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sogoid&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true" alt="centered image">
   </center>
   <center>  
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sogoid&layout=compact&langs_count=7&theme=codeSTACKr"/> 
+    <img height="180em" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=sogoid&layout=compact&langs_count=7&theme=codeSTACKr](https://github-readme-stats.vercel.app/api/top-langs/?username=sogoid&bg_color=101414&hide_borde=true&title_color=d2691e&theme=dark&locale=pt-br)"/> 
   </center>
 </div>
   
