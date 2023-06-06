@@ -23,24 +23,25 @@
   
 ### ⚡ <span title="Estatísticas do GitHub">GitHub Stats</span>
 
-  <div style="display: flex; justify-content: space-between;">
-  <a href="https://github.com/sogoid">
-  <center>
-     <picture>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=sogoid&show_icons=true&icon_color=d2691e&bg_color=101414&hide_borde=true&title_color=d2691e&theme=dark&locale=pt-br"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=sogoid&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=sogoid&show_icons=true" />
-</picture>
-  </center>
-  <center>  
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sogoid&bg_color=101414&hide_borde=true&title_color=d2691e&theme=dark&locale=pt-br" alt="Top Langs">
-  </center>
+  <div style="display: flex;">
+       <a href="https://github.com/sogoid">
+        <center>
+           <picture >
+      <source
+        srcset="https://github-readme-stats.vercel.app/api?username=sogoid&show_icons=true&icon_color=d2691e&bg_color=101414&hide_borde=true&title_color=d2691e&theme=dark&locale=pt-br"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api?username=sogoid&show_icons=true"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img src="https://github-readme-stats.vercel.app/api?username=sogoid&show_icons=true" />
+      </picture>
+        </center>
+         <center>  
+         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sogoid&bg_color=101414&hide_borde=true&title_color=d2691e&theme=dark&locale=pt-br" alt="Top Langs">
+        </center>
+   
 </div>
   
 ---
