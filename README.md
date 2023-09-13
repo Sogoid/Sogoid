@@ -8,7 +8,7 @@
 <a href="https://stackoverflow.com/users/21739577/sogoid"> <img src="https://img.icons8.com/windows/40/d2691e/stackoverflow.png" alt="stackoverflow" title="StackOverFlow"/></a>
 <a href="https://www.linkedin.com/in/diogos-ribeiro/"><img src="https://img.icons8.com/windows/40/d2691e/linkedin.png" target="_blank" title="LinkdIn"></a>
 <a href="https://t.me/Diogos_ribeiro"><img src="https://img.icons8.com/windows/40/d2691e/telegram-app.png" target_blank title="Telegram"></a>
-<a href="https://www.reddit.com/user/DIOGOSRIBEIRO"> <img src="https://img.icons8.com/metro/40/d2691e/reddit--v1.png" alt="reddit--v1" target_blank title="Reddit">
+<a href="https://www.reddit.com/user/DIOGOSRIBEIRO"> <img src="https://img.icons8.com/metro/40/d2691e/reddit.png" alt="reddit--v1" target_blank title="Reddit">
 <h6 title="Os ícones acima são clicáveis">The icons above are clickable</h6> 
 </div>
 
