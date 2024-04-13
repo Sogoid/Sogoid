@@ -15,7 +15,7 @@
 ### <img src="https://img.icons8.com/fluency-systems-filled/30/d2691e/about-me.png" alt="about-me"/> <span title="Sobre mim">About Me</span>
   
 - 👀 <span title="Estou estudando para ser um desenvolvedor full-stack orientado para a web.">I'm studying to be a web-oriented full-stack developer.</span>
-- 🌱 <span title="Atualmente estou aprendendo tecnologia web, lógica de programação. No IPOG - INSTITUTO DE PÓS-GRADUAÇÃO & GRADUAÇÃO - IPOG. Estou no primeiro período da Graduação em Análise e Desenvolvimento de Sistemas.">I am currently learning web technology, logic programming. At [IPOG - INSTITUTE OF POST-GRADUATION & GRADUATION - IPOG](https://ipog.edu.br/graduacao/analise-e-desenvolvimento-de-sistemas). I am in the first period of the Graduation in Analysis and Development of Systems.</span>
+- 🌱 <span title="Atualmente estou aprendendo tecnologia web, lógica de programação. No IPOG - INSTITUTO DE PÓS-GRADUAÇÃO & GRADUAÇÃO - IPOG. Estou no terceiro período da Graduação em Análise e Desenvolvimento de Sistemas.">I am currently enhancing my knowledge in web technology and logic programming at [IPOG - INSTITUTE OF POST-GRADUATION & GRADUATION - IPOG](https://ipog.edu.br/graduacao/analise-e-desenvolvimento-de-sistemas). I am in the third term of the Undergraduate course in Analysis and Development of Systems.</span>
 - 💞️ <span title="Estou querendo colaborar:">I’m looking to collaborate on:</span>
 
 ---
