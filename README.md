@@ -14,9 +14,9 @@
 
 ### <img src="https://img.icons8.com/fluency-systems-filled/30/d2691e/about-me.png" alt="about-me"/> <span title="Sobre mim">About Me</span>
   
-- 👀 <span title="Estou estudando para ser um desenvolvedor full-stack orientado para a web.">I'm studying to be a web-oriented full-stack developer.</span>
-- 🌱 <span title="Atualmente estou aprendendo tecnologia web, lógica de programação. No IPOG - INSTITUTO DE PÓS-GRADUAÇÃO & GRADUAÇÃO - IPOG. Estou no quarto período da Graduação em Análise e Desenvolvimento de Sistemas.">I am currently enhancing my knowledge in web technology and logic programming at [IPOG - INSTITUTE OF POST-GRADUATION & GRADUATION - IPOG](https://ipog.edu.br/graduacao/analise-e-desenvolvimento-de-sistemas). I am in the fourth period of the Undergraduate course in Systems Analysis and Development.</span>
-- 💞️ <span title="Estou querendo colaborar:">I’m looking to collaborate on:</span>
+- 👀 <span title="Em constante evolução, estou me preparando para atuar como desenvolvedor full-stack especializado em soluções web, aprimorando continuamente meus conhecimentos e habilidades para acompanhar as tendências e demandas do mercado.">Constantly evolving, I am preparing to work as a full-stack developer specializing in web solutions, continuously enhancing my knowledge and skills to stay aligned with industry trends and market demands.</span>
+- 🎓 <span title="Graduei-me no segundo semestre de 2025 em Análise e Desenvolvimento de Sistemas pelo IPOG – Instituto de Pós-Graduação e Graduação, onde fortaleci minha expertise em tecnologias web e programação lógica.">I graduated in the second semester of 2025 with a degree in Systems Analysis and Development from IPOG – Institute of Post-Graduation and Graduation, where I strengthened my expertise in web technologies and logic programming.</span>
+- 💞️ <span title="Estou em busca de colaborar em:">I’m looking to collaborate on:</span>
 
 ---
 <br>
