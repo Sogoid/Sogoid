@@ -14,9 +14,12 @@
 
 ### <img src="https://img.icons8.com/fluency-systems-filled/30/d2691e/about-me.png" alt="about-me"/> <span title="Sobre mim">About Me</span>
   
-- 👀 <span title="Em constante evolução, estou me preparando para atuar como desenvolvedor full-stack especializado em soluções web, aprimorando continuamente meus conhecimentos e habilidades para acompanhar as tendências e demandas do mercado.">Constantly evolving, I am preparing to work as a full-stack developer specializing in web solutions, continuously enhancing my knowledge and skills to stay aligned with industry trends and market demands.</span>
-- 🎓 <span title="Graduei-me no segundo semestre de 2025 em Análise e Desenvolvimento de Sistemas pelo IPOG – Instituto de Pós-Graduação e Graduação, onde fortaleci minha expertise em tecnologias web e programação lógica.">I graduated in the second semester of 2025 with a degree in Systems Analysis and Development from IPOG – Institute of Post-Graduation and Graduation, where I strengthened my expertise in web technologies and logic programming.</span>
-- 💞️ <span title="Estou em busca de colaborar em:">I’m looking to collaborate on:</span>
+- 👀 <span title="Em constante evolução, estou me preparando para atuar como desenvolvedor full-stack especializado em soluções web, aprimorando continuamente meus conhecimentos e habilidades para acompanhar as tendências e demandas do mercado.">Constantly evolving, I am preparing to work as a full-stack developer specializing in web solutions, continuously improving my knowledge and skills to stay aligned with industry trends and market demands.</span>  
+
+- 🎓 <span title="Graduei-me no segundo semestre de 2025 em Análise e Desenvolvimento de Sistemas pelo IPOG – Instituto de Pós-Graduação e Graduação, onde fortaleci minha expertise em tecnologias web e programação lógica.">I graduated in the second semester of 2025 with a degree in Systems Analysis and Development from IPOG – Institute of Post-Graduation and Graduation, where I strengthened my expertise in web technologies and logic programming.</span>  
+
+- 💞️ <span title="Estou em busca de colaborar em projetos de desenvolvimento web, soluções full-stack e iniciativas que promovam inovação tecnológica.">I’m looking to collaborate on web development projects, full-stack solutions, and initiatives that drive technological innovation.</span>  
+
 
 ---
 <br>
